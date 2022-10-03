@@ -8,9 +8,6 @@ public class FoodForSoulApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FoodForSoulApplication.class, args);
-		
-		
-		
 	}
 
 }
